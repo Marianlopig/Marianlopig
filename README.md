@@ -15,6 +15,7 @@ I am a Full Stack web Developer, specialized on the following stacks:
 - Github
 - Test: Jest, Cypress, msw, supertest, snapshot test
 - Agile Scrum
+- SEO
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
