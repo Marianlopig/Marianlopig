@@ -5,7 +5,7 @@
   <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/marian-lopez-iglesias/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>
+  <a href="https://www.linkedin.com/in/marian-lopez-iglesias/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>
 
 ---
 ### :woman_technologist: About Me :
